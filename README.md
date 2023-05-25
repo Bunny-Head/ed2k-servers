@@ -4,10 +4,10 @@ List of working eD2k
 
 01 - [!! Sharing-Devils No.1 !!](ed2k://|server|193.233.203.107|4232|/)
 
-02 - (ed2k://|server|37.221.65.235|4232|/)[!! Sharing-Devils No.2 !!]
-03 - (ed2k://|server|37.221.65.107|4232|/)[!! Sharing-Devils No.3 !!]
-04 - (ed2k://|server|185.25.48.89|18357|/)[Akteon Server]
-05 - (ed2k://|server|176.125.231.98|18357|/)[Akteon Server No2]
+02 - [!! Sharing-Devils No.2 !!](ed2k://|server|37.221.65.235|4232|/)
+03 - [!! Sharing-Devils No.3 !!](ed2k://|server|37.221.65.107|4232|/)
+04 - [Akteon Server](ed2k://|server|185.25.48.89|18357|/)
+05 - [Akteon Server No2](ed2k://|server|176.125.231.98|18357|/)
 06 - (ed2k://|server|147.78.0.252|18357|/)[Akteon Server No8]
 07 - (ed2k://|server|45.9.249.207|43333|/)[Astra-1]
 08 - (ed2k://|server|95.217.134.86|22888|/)[Astra-2]
